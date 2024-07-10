@@ -31,8 +31,7 @@ Each chapter is divided into lessons, with each lesson containing its own projec
 - **Node.js**: For running JavaScript outside the browser, if needed.
 - **npm**: Node package manager for managing dependencies.
 - **VS Code**: Recommended code editor.
-
-\_
+- **GSAP**: Animation library.
 
 #### Cleanup `.gitignore` Files
 
