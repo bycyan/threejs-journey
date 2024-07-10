@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Ignore Blender files (if you generate temporary files)
+#*.blend1
+
+# Ignore .env files
+.env
+
+# Other files to ignore
+*.log
+*.tmp
